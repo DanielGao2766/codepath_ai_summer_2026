@@ -1,0 +1,6 @@
+[submodule "ai201-project6-cinelog-starter"]
+	path = ai201-project6-cinelog-starter
+	url = https://github.com/DanielGao2766/ai201-project6-cinelog-starter.git
+[submodule "ai201-project4-provenance-guard"]
+	path = ai201-project4-provenance-guard
+	url = https://github.com/DanielGao2766/ai201-project4-provenance-guard.git
