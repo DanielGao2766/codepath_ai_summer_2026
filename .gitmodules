@@ -31,3 +31,6 @@
 [submodule "ai201-lab1-rulesbot-starter"]
 	path = ai201-lab1-rulesbot-starter
 	url = https://github.com/DanielGao2766/ai201-lab1-rulesbot-starter.git
+[submodule "pathreview"]
+	path = pathreview
+	url = https://github.com/DanielGao2766/pathreview.git
