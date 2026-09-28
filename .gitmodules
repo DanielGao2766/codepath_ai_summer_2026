@@ -4,3 +4,30 @@
 [submodule "ai201-project4-provenance-guard"]
 	path = ai201-project4-provenance-guard
 	url = https://github.com/DanielGao2766/ai201-project4-provenance-guard.git
+[submodule "ai201-project5-mixtape-starter"]
+	path = ai201-project5-mixtape-starter
+	url = https://github.com/DanielGao2766/ai201-project5-mixtape-starter.git
+[submodule "ai201-lab6-grocerylist-starter"]
+	path = ai201-lab6-grocerylist-starter
+	url = https://github.com/DanielGao2766/ai201-lab6-grocerylist-starter.git
+[submodule "ai201-lab5-bookclub-starter"]
+	path = ai201-lab5-bookclub-starter
+	url = https://github.com/DanielGao2766/ai201-lab5-bookclub-starter.git
+[submodule "ai201-lab4-repairsafe-starter"]
+	path = ai201-lab4-repairsafe-starter
+	url = https://github.com/DanielGao2766/ai201-lab4-repairsafe-starter.git
+[submodule "ai201-project3-takemeter"]
+	path = ai201-project3-takemeter
+	url = https://github.com/DanielGao2766/ai201-project3-takemeter.git
+[submodule "ai201-lab3-podclassifier-starter"]
+	path = ai201-lab3-podclassifier-starter
+	url = https://github.com/DanielGao2766/ai201-lab3-podclassifier-starter.git
+[submodule "ai201-project2-fitfindr-starter"]
+	path = ai201-project2-fitfindr-starter
+	url = https://github.com/DanielGao2766/ai201-project2-fitfindr-starter.git
+[submodule "ai201-project1-unofficial-guide-starter"]
+	path = ai201-project1-unofficial-guide-starter
+	url = https://github.com/DanielGao2766/ai201-project1-unofficial-guide-starter.git
+[submodule "ai201-lab1-rulesbot-starter"]
+	path = ai201-lab1-rulesbot-starter
+	url = https://github.com/DanielGao2766/ai201-lab1-rulesbot-starter.git
