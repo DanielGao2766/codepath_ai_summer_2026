@@ -34,3 +34,6 @@
 [submodule "pathreview"]
 	path = pathreview
 	url = https://github.com/DanielGao2766/pathreview.git
+[submodule "ai201-lab2-plantadvisor-starter"]
+	path = ai201-lab2-plantadvisor-starter
+	url = https://github.com/DanielGao2766/ai201-lab2-plantadvisor-starter.git
